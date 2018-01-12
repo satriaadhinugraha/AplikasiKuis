@@ -1,0 +1,18 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision 1c702c47122d56324ab7d39c804ffcdc55ce2f6f)
++++ .idea/vcs.xml	(revision )
+@@ -1,6 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../QuizMendebarkan" vcs="Git" />
++    <mapping directory="E:\Semester 5\Materi PPB\UTS\KuisMenggelegar\UAS" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
